@@ -1,0 +1,19 @@
+# Build outputs
+/go-totp
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Coverage reports
+coverage.out
+
+# Editor / OS files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
